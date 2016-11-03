@@ -1,6 +1,6 @@
 # document-base-and-code-base
 
-bounch of codes and plenty of resources
+bunch of codes and plenty of resources
 
 ### **Learning Jquery**
 ##### **For learning jquery.**
