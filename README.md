@@ -370,7 +370,7 @@ below. $(’.buttonClass’).on(’click’, function()); you can do with this w
 - [Pypy.js](http://pypyjs.org/)
 - [Learning VIM](http://vim-adventures.com/)
 
-###""Apache and Java Framework**
+###**Apache and Java Framework**
 - [Freemaker](http://freemarker.org/) -> Templating Engine
 - [Wicket](https://wicket.apache.org/) -> Framework that has template engine (MVC)
 
@@ -383,40 +383,28 @@ below. $(’.buttonClass’).on(’click’, function()); you can do with this w
 ###**Oracle Java Tutorial**
 - [Tutorial](https://docs.oracle.com/javase/tutorial/index.html)
  
- ###**Crawl Single Page with Python**
+###**Crawl Single Page with Python**
 - [htcap](https://github.com/segment-srl/htcap)
  
- ###**Python JS Translator**
+###**Python JS Translator**
 - [Metapensiero](https://github.com/azazel75/metapensiero.pj)
 - [Transcrypt](https://github.com/QQuick/Transcrypt)
  
- ###*Semantic Versioning**
+###**Semantic Versioning**
 - [Semver](http://semver.org/)
  
- ###**Music Production Software**- 
+###**Music Production Software**- 
 - [Logic Pro X](http://www.apple.com/tr/logic-pro/)
 - [Cubae](http://www.steinberg.net/en/products/cubase/start.html)
 - [FL Studio](http://www.image-line.com/flstudio/)
 - [ModPlug](http://www.modplug.com/)
 - [Ableton](https://www.ableton.com/)
  
- 
- ###**Githubs**
+###**Githubs**
  - [1](https://github.com/marrow)
  - [2](https://github.com/amcgregor)
  
-
-
- 
- 
- 
- 
- 
-
-
-
 ###**Books**
 - [Interactive Data Visulization](http://chimera.labs.oreilly.com/books/1230000000345)
 - [Everyday Design](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654?ie=%20UTF8&*Version*=1&*entries*=0)
 - [Dont Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
-
