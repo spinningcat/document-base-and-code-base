@@ -312,10 +312,16 @@ below. $(’.buttonClass’).on(’click’, function()); you can do with this w
 - [Stackoverflow - How To Check If an Element is Hidden in jQuery.](http://stackoverflow.com/questions/178325/how-do-i-check-if-an-element-is-hidden-in-jquery)
 - [Example - State Example](http://jsfiddle.net/hellyeah/xpfj87ws/embedded/result/)
 
-###*Slide The Div**
+###**Slide The Div**
 - [Explanation](http://www.learningjquery.com/2009/02/slide-elements-in-different-directions)
 - [Example #1-Slide Div Vertically](http://jsfiddle.net/hellyeah/4cLnyt44/embedded/result/)
 - [Example #2-Expand and Narrow The Div with Arrow Button](http://jsfiddle.net/hellyeah/0swdvqh5/embedded/result/)
+
+###**You dont know JavaScript**
+- [YDKJS](https://github.com/getify/You-Dont-Know-JS)
+
+###**ES6.io**
+- [ES6](https://github.com/theskillwithin/es6.io)
 
 ###**Those Come In Handy**
 - [JS Beautifier](http://jsbeautifier.org/)
