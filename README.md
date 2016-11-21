@@ -36,6 +36,11 @@ bunch of codes and plenty of resources
 - [Css-tricks-Centering CSS Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [Css-tricks-A Guid to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+#####*Why Npm Scripts**
+- [Css-Tricks-Npm](https://css-tricks.com/why-npm-scripts/)
+- [Npm-Boilerplate](https://github.com/damonbauer/npm-build-boilerplate)
+- [Package.json](https://github.com/theskillwithin/hrtcup/blob/master/package.json)
+
 #####**Books**
 - [Eloquent Javascript](http://eloquentjavascript.net/)
 - [JavaScript The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
