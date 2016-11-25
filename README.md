@@ -137,15 +137,16 @@ bunch of codes and plenty of resources
 - [Function-Prototype-Bind](https://developer.mozilla.org/tr/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
 
 ###**Get The Content of Clicked Object.**
-[MDN-Xul-Attribute-Context](https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XUL/Attribute/context)
+- [MDN-Xul-Attribute-Context](https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XUL/Attribute/context)
+
 ##### Example with Context
-[Example](http://jsfiddle.net/hellyeah/ke6ws9jf/)
+- [Example](http://jsfiddle.net/hellyeah/ke6ws9jf/)
 
 ###**Merge two or more object into one.**
-[jQuery-Exctend](https://api.jquery.com/jquery.extend/)
+- [jQuery-Extend](https://api.jquery.com/jquery.extend/)
 
 ###**You can use css as if you use photoshop. Each tecniques are illustrated**
-[Css-Tricks-Filter](https://css-tricks.com/almanac/properties/f/filter/)
+- [Css-Tricks-Filter](https://css-tricks.com/almanac/properties/f/filter/)
 
 ###**Vertically Center a Div.**
 [Stackoverflow-Vertically Center a Div in All Browser](http://stackoverflow.com/questions/396145/how-to-vertically-center-a-div-for-all%20-browsers)
@@ -374,6 +375,12 @@ below. $(’.buttonClass’).on(’click’, function()); you can do with this w
 ###**How To Use jQuery with RequireJS.**
 -[jQuery with RequireJS](http://requirejs.org/docs/jquery.html)
 
+###**Starting d3**
+- [d3JS](https://bost.ocks.org/mike/bar/)
+
+###**Handling package.json** 
+- [package.json](https://docs.npmjs.com/files/package.json)
+
 ###**Interactive Environment**
 - [JSFiddle](https://jsfiddle.net/)
 - [Codepen.io](http://codepen.io/)
@@ -406,7 +413,10 @@ below. $(’.buttonClass’).on(’click’, function()); you can do with this w
  
 ###**Semantic Versioning**
 - [Semver](http://semver.org/)
- 
+
+###**IDE**
+[RiderEAP](https://blog.jetbrains.com/dotnet/2016/11/21/jetbrains-rider-public-preview/)
+
 ###**Music Production Software**- 
 - [Logic Pro X](http://www.apple.com/tr/logic-pro/)
 - [Cubae](http://www.steinberg.net/en/products/cubase/start.html)
