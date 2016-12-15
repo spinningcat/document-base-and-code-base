@@ -411,6 +411,10 @@ below. $(’.buttonClass’).on(’click’, function()); you can do with this w
 - [Metapensiero](https://github.com/azazel75/metapensiero.pj)
 - [Transcrypt](https://github.com/QQuick/Transcrypt)
  
+###**Rest Stuff
+- [Github Fetch](https://github.com/github/fetch)
+- [Github Axios](https://github.com/mzabriskie/axios)
+ 
 ###**Semantic Versioning**
 - [Semver](http://semver.org/)
 
@@ -432,5 +436,6 @@ below. $(’.buttonClass’).on(’click’, function()); you can do with this w
 - [Interactive Data Visulization](http://chimera.labs.oreilly.com/books/1230000000345)
 - [Everyday Design](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654?ie=%20UTF8&*Version*=1&*entries*=0)
 - [Dont Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
-
+- [Hadoop Operation](http://shop.oreilly.com/product/0636920025085.do)
+- [Mining of Massive Dataset](http://infolab.stanford.edu/~ullman/mmds/bookL.pdf)
 
