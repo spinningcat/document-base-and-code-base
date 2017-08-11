@@ -26,7 +26,7 @@ bunch of codes and plenty of resources
 - [CodeAcademy](https://www.codeacademy.com/)
 - [TreeHouse](https://teamtreehouse.com/)
 
-#####**Complete tutorial HTML - JS - CSS**
+##### **Complete tutorial HTML - JS - CSS**
 - [MDN](https://developer.mozilla.org/en-US/)
 - [MDN-CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [MDN-JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -36,17 +36,17 @@ bunch of codes and plenty of resources
 - [Css-tricks-Centering CSS Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [Css-tricks-A Guid to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-#####*Why Npm Scripts**
+##### **Why Npm Scripts**
 - [Css-Tricks-Npm](https://css-tricks.com/why-npm-scripts/)
 - [Npm-Boilerplate](https://github.com/damonbauer/npm-build-boilerplate)
 - [Package.json](https://github.com/theskillwithin/hrtcup/blob/master/package.json)
 
-#####**Books**
+##### **Books**
 - [Eloquent Javascript](http://eloquentjavascript.net/)
 - [JavaScript The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
 - [Crockford Javascript](http://javascript.crockford.com/)
 
-#####**Javascript and Css Library**
+##### **Javascript and Css Library**
 - [d3js](https://d3js.org/)
 - [MathBox](https://gitgud.io/unconed/mathbox)
 - [Js Coach](https://js.coach/)
@@ -55,69 +55,69 @@ bunch of codes and plenty of resources
 - [Trenthamunited Scripts](http://www.trenthamunited.com/archive/db/scripts/)
 - [CDNJS](https://cdnjs.com/libraries)
 
-#####**Angular JS example**
+##### **Angular JS example**
 - [Example 1](http://plnkr.co/edit/gaZmjcz66yNf5WaYFueW?p=preview)
 - [Example 2](http://plnkr.co/edit/FJ0XD8We1iIJi6nhTs3O?p=preview)
 - [Example 3](http://plnkr.co/edit/k6DAIdp93uQc6GG25I19?p=preview)
 - [Example 4](http://plnkr.co/edit/k6DAIdp93uQc6GG25I19?p=preview)
 - [Example 5](http://plnkr.co/edit/k6DAIdp93uQc6GG25I19?p=preview)
 
-###**Vector Graph and Animation with Example**
+### **Vector Graph and Animation with Example**
 
-####**Floaticon is really good web site. You dont need to worry about image like an arrow or facebook button. This site has really good stuff. So check it out.**
+#### **Floaticon is really good web site. You dont need to worry about image like an arrow or facebook button. This site has really good stuff. So check it out.**
 - [FlatIcon](http://www.flaticon.com/)
 
-#####**Font awesome is for vectoral graphic. My two pennies, those two sites are related.**
+##### **Font awesome is for vectoral graphic. My two pennies, those two sites are related.**
 - [Font Awesome](http://fontawesome.io/?utm%20source=hackernewsletter)
 
-#####**Unicode symbols. You can just copy and paste the symbols to your editor.**
+##### **Unicode symbols. You can just copy and paste the symbols to your editor.**
 - [English Unicode Sets](http://unicode-table.com/en/sets/)
 
-#####**Css examples. You can check examples and test your skills.**
+##### **Css examples. You can check examples and test your skills.**
 - [Dribble](https://dribbble.com/)
 
-#####**Loading Animation**
+##### **Loading Animation**
 - [Example](http://jsfiddle.net/hellyeah/wx1ncstt/embedded/result/)
 
-#####**Click button to get animation**
+##### **Click button to get animation**
 - [Example](http://jsfiddle.net/hellyeah/w5yomb0k/18/embedded/result/)
 
-#####**jQuery Animation**
+##### **jQuery Animation**
 - [jQuery Animation](http://api.jquery.com/animate/)
 
-#####**Css transition is one of option to make an animation.**
+##### **Css transition is one of option to make an animation.**
 - [MDN-CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS%20Transitions/Using%20CSS%20transitions)
 
-#####**Different Animation Alternatives.**
+##### **Different Animation Alternatives.**
 - [CSS-Tricks-Transition](https://css-tricks.com/almanac/properties/t/transition/)
 
-#####**Animation Examples (Variations)**
+##### **Animation Examples (Variations)**
 - [Example](http://jsfiddle.net/hellyeah/qjSr6/1/embedded/result)
 
-###**Hoisting and Scope**
+### **Hoisting and Scope**
 - [Hoisting](http://johnkpaul.com/blog/2013/02/11/what-is-hoisting-really/)
 - [MDN-Scope](https://developer.mozilla.org/en-US/docs/Archive/Web/Scope_Cheatsheet)
 
-###**Page Design**
+### **Page Design**
 - [Github-Contrast Ratio](http://leaverou.github.io/contrast-ratio/)
 - [Duck-Duck-Go-Color Picker](https://duckduckgo.com/?q=color+picker+&ia=colorpicker)
 - [FulpageJS](http://alvarotrigo.com/fullPage/)
 - [HTMLUp](https://html5up.net/)
 
-###**Performance**
+### **Performance**
 - [Performance Check](http://ejohn.org/files/142/)
 
-###**Css Tutorial, Official Documentation, Jquery, Jquery UI, and examples.**
-#####**Span is text level node whereas div is block level node. Display of span is inline. Whereas display of div is block. It is really important point.**
+### **Css Tutorial, Official Documentation, Jquery, Jquery UI, and examples.**
+##### **Span is text level node whereas div is block level node. Display of span is inline. Whereas display of div is block. It is really important point.**
 - [MDN-Element Span](https://developer.mozilla.org/tr/docs/Web/HTML/Element/span)
 
-#####**jQuery focus**
+##### **jQuery focus**
 - [Focus Event](https://api.jquery.com/focus/)
 
-#####**Ecma Script 6 Spread Operator**
+##### **Ecma Script 6 Spread Operator**
 - [Example](http://jsfiddle.net/hellyeah/6Ljp7spf/12/embedded/result/)
 
-###**Higher Order Function**
+### **Higher Order Function**
 - [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - [Filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 - [Reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
@@ -136,99 +136,99 @@ bunch of codes and plenty of resources
 - [Promise-Prototype-Then](https://developer.mozilla.org/tr/docs/Web/JavaScript/Reference/Global_Objects/Promise/then)
 - [Function-Prototype-Bind](https://developer.mozilla.org/tr/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
 
-###**Get The Content of Clicked Object.**
+### **Get The Content of Clicked Object.**
 - [MDN-Xul-Attribute-Context](https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XUL/Attribute/context)
 
 ##### Example with Context
 - [Example](http://jsfiddle.net/hellyeah/ke6ws9jf/)
 
-###**Merge two or more object into one.**
+### **Merge two or more object into one.**
 - [jQuery-Extend](https://api.jquery.com/jquery.extend/)
 
-###**You can use css as if you use photoshop. Each tecniques are illustrated**
+### **You can use css as if you use photoshop. Each tecniques are illustrated**
 - [Css-Tricks-Filter](https://css-tricks.com/almanac/properties/f/filter/)
 
-###**Vertically Center a Div.**
+### **Vertically Center a Div.**
 [Stackoverflow-Vertically Center a Div in All Browser](http://stackoverflow.com/questions/396145/how-to-vertically-center-a-div-for-all%20-browsers)
 
-#####**Centering Element Example**
+##### **Centering Element Example**
 [Example](http://jsfiddle.net/hellyeah/evbvf3vn/)
 
-#####**Centering Element Example**
+##### **Centering Element Example**
 [Example](http://jsfiddle.net/hellyeah/Lbnh69Lq/)
 
-###**Layout is important. There are many elements to good layout which includes positioning , float , flex , responsiveness and etc. This web site taked about that issue. Btw css-tricks is really nice pace to hangout for such information.**
+### **Layout is important. There are many elements to good layout which includes positioning , float , flex , responsiveness and etc. This web site taked about that issue. Btw css-tricks is really nice pace to hangout for such information.**
 - [CSS-Tricks-Fighting The Space between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
 
-###**Bounch of Stuff Psuedo Elements can do**
+### **Bounch of Stuff Psuedo Elements can do**
 - [CSS-Trick-Psuedo Elements Roundtrip](https://css-tricks.com/pseudo-element-roundup/)
 
-###**Flexbox and Masonry**
+### **Flexbox and Masonry**
 - [CSS-Trick-Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Masonry-Cascading Grid Layout Library](http://masonry.desandro.com/)
 
-###**Easy Masonry with Flexbox**
+### **Easy Masonry with Flexbox**
 - [Masonry with Flexbox](http://thenewcode.com/844/Easy-Masonry-Layout-With-Flexbox)
 
-#####Flexbox 
+##### Flexbox 
 - [Example](https://jsfiddle.net/hellyeah/r7jsr2se/embedded/result)
 
-#####Flexbox and Masonry
+##### Flexbox and Masonry
 - [Example](https://jsfiddle.net/hellyeah/nhsj8647/embedded/result/)
 
-###**Setting a Div in Viewport Size.**
+### **Setting a Div in Viewport Size.**
 - [CSS-Tricks-Forum](https://css-tricks.com/forums/topic/setting-a-div-height-to-the-window-viewport-size/)
 
-###**If you put some text before or after elements into dom. ::before and ::after is your friend.**
+### **If you put some text before or after elements into dom. ::before and ::after is your friend.**
 - [Css-Tricks-After and Before](https://css-tricks.com/almanac/selectors/a/after-and-before/)
 
-###**In Case if needed - Shapes**
+### **In Case if needed - Shapes**
 - [Css-Tricks-Triangle](https://css-tricks.com/snippets/css/css-triangle/)
 - [Css-Tricks- Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
 - [DWB-Css Triangle](https://davidwalsh.name/css-triangles)
 
-###**Combining JS Arrays**
+### **Combining JS Arrays**
 - [DWB-Combining-JS-Arrays](https://davidwalsh.name/combining-js-arrays)
 
-###**Understanding Event Delegation**
+### **Understanding Event Delegation**
 - [Event Delegation](https://learn.jquery.com/events/event-delegation/)
 - [DWB-Event Delegation-More Detailed Explanation with Example](https://davidwalsh.name/event-delegate)
 
-###**CSS Boder**
+### **CSS Boder**
 - [MDN-CSS-Border](https://developer.mozilla.org/en-US/docs/Web/CSS/border)
 
-###**Creating JSOB Object**
+### **Creating JSOB Object**
 - [TutorialsPoint-JSON Object](http://www.tutorialspoint.com/json/json_objects.htm)
 
-###**jQuery UI Datepicker**
+### **jQuery UI Datepicker**
 - [Datepicker Example -Official](https://jqueryui.com/datepicker/)
 - [API](http://api.jqueryui.com/datepicker/)
 - [Customizing and Theming jQuery UI Datepicker](http://www.hongkiat.com/blog/jquery-ui-datepicker/)
 
-#####**This question seems good place for grasping some aspects of datepicker.**
+##### **This question seems good place for grasping some aspects of datepicker.**
 - [jQueryUI-Datepicker OnSelect](http://stackoverflow.com/questions/9210451/datepicker-onselect)
 - [jQuery UI Datepicker with buttons](http://jsfiddle.net/hellyeah/7e4mLj5r/1/embedded/result/)
 - [Full Jquery, Jquery UI DatePicker, Colorizing, Remove Date Option](http://jsfiddle.net/hellyeah/1u7990jL/embedded/result/)
 
-###**jQuery UI Dialog**
+### **jQuery UI Dialog**
 - [Datepicker Example -Official](https://jqueryui.com/dialog/)
 - [API](http://api.jqueryui.com/dialog/)
 
-###**jQuery Date Range Picker**
+### **jQuery Date Range Picker**
 [Githıb-jQuery Date Range Picker](https://github.com/longbill/jquery-date-range-picker)
 
-###**jQuery UI Tooltip**
+### **jQuery UI Tooltip**
 - [Tooltip Example -Official](https://jqueryui.com/tooltip/)
 - [API](http://api.jqueryui.com/tooltip/)
 
-###**If you decide the Jquery UI Tooltip. Check this question out. This question has some hints.**
+### **If you decide the Jquery UI Tooltip. Check this question out. This question has some hints.**
 - [Stackoverflow-Overriding-CSS Styles of The jQuery UI Tooltip Widget](http://stackoverflow.com/questions/4780759/overriding-css-styles-of-the-jquery-ui-tooltip-widget)
 - [Tooltip Example - Left, Right, Top, Buttom](http://jsfiddle.net/hellyeah/61dperye/1/embedded/result/)
 
-###**Put Tooltip Center of The Page**
+### **Put Tooltip Center of The Page**
 - [Tooltip Example - Center The Tooltip](http://jsfiddle.net/hellyeah/99Lsyzgq/embedded/result/)
 
-###**jQuery UI Draggable & Droppable**
+### **jQuery UI Draggable & Droppable**
 - [Draggable Example -Official](https://jqueryui.com/draggable/)
 - [API](http://api.jqueryui.com/draggable/)
 - [Ddroppable Example -Official](https://jqueryui.com/droppable/)
@@ -237,20 +237,20 @@ bunch of codes and plenty of resources
 - [Example #2- Droggable & Droppable](http://jsfiddle.net/hellyeah/r2b6z9qp/embedded/result/)
 - [Example #3- Draggable & Droppable](http://jsfiddle.net/hellyeah/bzsktm1y/embedded/result/)
 
-###**jQuery UI Tabs**
+### **jQuery UI Tabs**
 - [Tabs Example -Official](https://jqueryui.com/tabs/)
 - [API](http://api.jqueryui.com/selectable/)
 
-###**Other Examples and Sources**
+### **Other Examples and Sources**
 - [MDN-2d Collision Detection](https://developer.mozilla.org/en-US/docs/Games/Techniques/2D_collision_detection)
 - [CSS-Tricks-Collision of Two Objects](https://css-tricks.com/collision-detection/)
 - [Example #1- Collinion](http://jsfiddle.net/hellyeah/sy1gz0xw/)
 - [Example #2- Collision](http://jsfiddle.net/hellyeah/st9fbyrg/1/)
 
-###**Jqx Widget**
+### **Jqx Widget**
 - [Widgets](http://www.jqwidgets.com/)
 
-###**Jqx Widget Calendar**
+### **Jqx Widget Calendar**
 - [Widget](http://www.jqwidgets.com/jquery-widgets-documentation/documentation/jqxcalendar/jquery-calendar-getting-started.htm)
 - [API](https://www.jqwidgets.com/jquery-widgets-documentation/documentation/jqxcalendar/jquery-calendar-api.htm)
 - [Style and Appearence](https://www.jqwidgets.com/jquery-widgets-documentation/documentation/jqxcalendar/jquery-calendar-styling-and-appearance.htm)
@@ -263,13 +263,13 @@ bunch of codes and plenty of resources
 - [Example #5 - Jqx Calendar - Turkish Jqx Calendar](http://jsfiddle.net/hellyeah/qd5yvxud/embedded/result/)
 - [Example #6 - Jqx Calendar - Simple jQuery datepicker, JQX Calendar example](http://jsfiddle.net/hellyeah/4b1u182q/embedded/result/)
 
-###**Jqx Widget Table**
+### **Jqx Widget Table**
 - [Widget](http://jqwidgets.com/jquery-widgets-demo/demos/jqxdatatable/index.htm)
 
-###**Jqx DateTime Input**
+### **Jqx DateTime Input**
 - [Widget](http://jqwidgets.com/jquery-widgets-demo/demos/jqxdatetimeinput/index.htm)
 
-###**AJAX and JSON**
+### **AJAX and JSON**
 - [EXMA JSON Standard](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)
 - [JSON Object](http://www.tutorialspoint.com/json/)
 - [jQuery Parse JSON](http://api.jquery.com/jquery.parsejson/)
@@ -284,7 +284,7 @@ bunch of codes and plenty of resources
 - [Example #6 - Printing JSON Array](http://jsfiddle.net/hellyeah/45qppcfo/)
 - [Example #7 - Traversing JSON Array and Print Spesific Part of JSON Array](http://jsfiddle.net/hellyeah/d3b59y6q/)
 
-###**GUI Works**
+### **GUI Works**
 - [Expand The Div, Click The Button. Show/Hide, Play It Around](http://jsfiddle.net/hellyeah/48un0m9L/embedded/result/)
 - [Animated Tables and Buttons](http://jsfiddle.net/hellyeah/e1jxL1wy/embedded/result/)
 - [Page Design](http://jsfiddle.net/hellyeah/oc4fhqqu/embedded/result/)
@@ -299,37 +299,37 @@ that text fits to the box.](http://jsfiddle.net/hellyeah/2L004qvb/embedded/resul
 map function. Learning map is very essantial imho.](http://jsfiddle.net/hellyeah/368pbj9g/embedded/result/)
 - [Vertical Div Example with Click Feature](http://jsfiddle.net/hellyeah/1qx2v0dh/embedded/result/)
 
-###**MomentJS**
+### **MomentJS**
 - [Official](http://momentjs.com/)
 - [Example #1 - MomentJS](http://jsfiddle.net/hellyeah/cg6x86gw/)
 - [Example #2 - MomentJS Format Example](http://jsfiddle.net/hellyeah/3djk9wne/)
 - [Example #3 - MomentJS Valid, Invalid Example](http://jsfiddle.net/hellyeah/uszk75L4/)
 
-###**Letter Animation**
+### **Letter Animation**
 - [Source File - Animate.css](http://textillate.js.org/assets/animate.css)
 - [Source File - Lettering.js ](http://textillate.js.org/assets/jquery.lettering.js)
 - [Source File - Texillate.js](http://textillate.js.org/jquery.textillate.js)
 - [Example - Animation on Word](http://jsfiddle.net/hellyeah/8L49h2rn/embedded/result/)
 
-###**Javascript Objext Examination**
+### **Javascript Objext Examination**
 - You can bind more then one events to button or any dom objects. Normally you caan add event to button in jquery as meantioned
 below. $(’.buttonClass’).on(’click’, function()); you can do with this way this is binding event.Var x = function() $(.buttonClass).on(’click’,x); you can also use this way. The thing you need to focus on here, you type x instead of x(). The reason of that you give the function content for invoking button click. So button or any jquery object can have more then one job.
 - DOM element is a state like clicked, visible, checked and whatnot. Sometimes you really need to check the state of DOM element so as to carry out next operation. This link will give you some hints. You can find an example in jsfiddle. So when you click the button that will be hidden. So state of button will change. There is tricky thing i do here that is when you click button it will show pervious button So state of button will change again. It is properly documented. Second example filter DOM element. You can change the state of DOM element basically. It is also properly documented.
 - [Stackoverflow - How To Check If an Element is Hidden in jQuery.](http://stackoverflow.com/questions/178325/how-do-i-check-if-an-element-is-hidden-in-jquery)
 - [Example - State Example](http://jsfiddle.net/hellyeah/xpfj87ws/embedded/result/)
 
-###**Slide The Div**
+### **Slide The Div**
 - [Explanation](http://www.learningjquery.com/2009/02/slide-elements-in-different-directions)
 - [Example #1-Slide Div Vertically](http://jsfiddle.net/hellyeah/4cLnyt44/embedded/result/)
 - [Example #2-Expand and Narrow The Div with Arrow Button](http://jsfiddle.net/hellyeah/0swdvqh5/embedded/result/)
 
-###**You dont know JavaScript**
+### **You dont know JavaScript**
 - [YDKJS](https://github.com/getify/You-Dont-Know-JS)
 
-###**ES6.io**
+### **ES6.io**
 - [ES6](https://github.com/theskillwithin/es6.io)
 
-###**Those Come In Handy**
+### **Those Come In Handy**
 - [JS Beautifier](http://jsbeautifier.org/)
 - [JS Lint](http://www.jslint.com/)
 - [Cross Browser Issue](https://www.browserling.com/)
@@ -345,16 +345,16 @@ below. $(’.buttonClass’).on(’click’, function()); you can do with this w
 - [Color Picker #2](http://colorschemedesigner.com/csd-3.5/)
 - [Complementary Colors](https://en.wikipedia.org/wiki/Complementary_colors)
 
-#####**LeanModal Example**
+##### **LeanModal Example**
 - [Example](http://jsfiddle.net/hellyeah/8cukvwwd/embedded/result/)
 - [FlexSlider](https://woocommerce.com/flexslider/)
 - [LightBox](http://lokeshdhakar.com/projects/lightbox2/)
 
-###**Filtering DOM Elements**
+### **Filtering DOM Elements**
 - [Example #1](http://jsfiddle.net/hellyeah/my3dd968/embedded/result/)
 - [Example #2](http://jsfiddle.net/hellyeah/qbqmkhou/embedded/result/)
 
-###**Some Adittional Tutorials and Examples**
+### **Some Adittional Tutorials and Examples**
 - [MDN-FullScreen API](https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API)
 - [DWB-FullScreen API](https://davidwalsh.name/fullscreen)
 - [Video](http://jsfiddle.net/hellyeah/xspontjt/embedded/result)
@@ -368,20 +368,20 @@ below. $(’.buttonClass’).on(’click’, function()); you can do with this w
 - [Div Example #2](http://jsfiddle.net/hellyeah/n4wh2pep/)
 - [Timer](http://jsfiddle.net/hellyeah/qbzhreev/)
  
-###**Validator**
+### **Validator**
 - [W3C - HTML](https://validator.w3.org/)
 - [W3C - CSS](https://jigsaw.w3.org/css-validator/)
 
-###**How To Use jQuery with RequireJS.**
+### **How To Use jQuery with RequireJS.**
 -[jQuery with RequireJS](http://requirejs.org/docs/jquery.html)
 
-###**Starting d3**
+### **Starting d3**
 - [d3JS](https://bost.ocks.org/mike/bar/)
 
-###**Handling package.json** 
+### **Handling package.json** 
 - [package.json](https://docs.npmjs.com/files/package.json)
 
-###**Interactive Environment**
+### **Interactive Environment**
 - [JSFiddle](https://jsfiddle.net/)
 - [Codepen.io](http://codepen.io/)
 - [Plunker](https://plnkr.co/)
@@ -391,48 +391,48 @@ below. $(’.buttonClass’).on(’click’, function()); you can do with this w
 - [Pypy.js](http://pypyjs.org/)
 - [Learning VIM](http://vim-adventures.com/)
 
-###**Apache and Java Framework**
+### **Apache and Java Framework**
 - [Freemaker](http://freemarker.org/) -> Templating Engine
 - [Wicket](https://wicket.apache.org/) -> Framework that has template engine (MVC)
 
-###**Java Web UI Framework**
+### **Java Web UI Framework**
 - [Play](https://www.playframework.com/)
 
-###**Build Resful WebService**
+### **Build Resful WebService**
 - [dropwizard](https://github.com/dropwizard/dropwizard)
 
-###**Oracle Java Tutorial**
+### **Oracle Java Tutorial**
 - [Tutorial](https://docs.oracle.com/javase/tutorial/index.html)
  
-###**Crawl Single Page with Python**
+### **Crawl Single Page with Python**
 - [htcap](https://github.com/segment-srl/htcap)
  
-###**Python JS Translator**
+### **Python JS Translator**
 - [Metapensiero](https://github.com/azazel75/metapensiero.pj)
 - [Transcrypt](https://github.com/QQuick/Transcrypt)
  
-###**Rest Stuff
+### **Rest Stuff
 - [Github Fetch](https://github.com/github/fetch)
 - [Github Axios](https://github.com/mzabriskie/axios)
  
-###**Semantic Versioning**
+### **Semantic Versioning**
 - [Semver](http://semver.org/)
 
-###**IDE**
+### **IDE**
 [RiderEAP](https://blog.jetbrains.com/dotnet/2016/11/21/jetbrains-rider-public-preview/)
 
-###**Music Production Software**- 
+### **Music Production Software**- 
 - [Logic Pro X](http://www.apple.com/tr/logic-pro/)
 - [Cubae](http://www.steinberg.net/en/products/cubase/start.html)
 - [FL Studio](http://www.image-line.com/flstudio/)
 - [ModPlug](http://www.modplug.com/)
 - [Ableton](https://www.ableton.com/)
  
-###**Githubs**
+### **Githubs**
  - [1](https://github.com/marrow)
  - [2](https://github.com/amcgregor)
  
-###**Books**
+### **Books**
 - [Interactive Data Visulization](http://chimera.labs.oreilly.com/books/1230000000345)
 - [Everyday Design](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654?ie=%20UTF8&*Version*=1&*entries*=0)
 - [Dont Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
